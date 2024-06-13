@@ -1,0 +1,114 @@
+#container {
+    min-height: 50px;
+    height: auto;
+}
+
+#logo {
+    height: 80px;
+    text-align: center;
+    margin-left: auto;
+}
+
+#logo img {
+    height: 100px;
+}
+
+.nav-item a:hover {
+    color: #15ffbd;
+}
+
+.search-bar button:hover {
+	background-color: #9ab3ab;
+}
+
+.navbar {
+	font-family: 'kanit';
+}
+
+#slider {
+    min-height: 400px;
+    height: auto;
+    margin-top: 40px;
+}
+
+#slider-img {
+    height: 400px;
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2019/12/20/istanbul-turkey-wallpaper.jpg");
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slider-img h1 {
+    font-size: 60px; 
+    color: #333; 
+    margin-bottom: 50px; 
+    padding-top: 60px; 
+}
+#about-slider-img {
+    height: 400px;
+    background-image: url("https://png.pngtree.com/background/20230427/original/pngtree-an-old-library-or-book-room-with-some-books-and-plants-picture-image_2496727.jpg");
+    background-color: #e5e5e5;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 60px; 
+    margin-bottom: 60px;
+    padding-left: 100px; 
+    padding-right: 100px; 
+    text-align: center; 
+}
+#about-mid-container .box {
+    margin-bottom: 20px; 
+    padding: 20px; 
+    padding-left: 40px; 
+    padding-right: 40px;
+}
+
+#mid-container {
+    margin-top: 40px;
+    min-height: 10px;
+    height: auto;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#contact-slider-image {
+    background-image: url("https://www.theopennotebook.com/wp-content/uploads/2016/03/shutterstock_182727164.jpg")
+} 
+#portfolio-slider-image {  
+  background-image: url("https://www.cincinnati.com/gcdn/presto/2020/03/12/PCIN/c9607031-2740-4426-9fef-b813c5c94b86-GettyImages-155911571.jpg")
+} 
+.box {
+    height: auto;
+    padding: 20px; 
+    margin-top: 20px;
+}
+
+.box p {
+    padding: 20px;
+}
+
+#footer {
+    font-family: 'montserrat';
+    font-weight: bold;
+    color: blue;
+}
+
+#footer-text {
+    font-family: 'montserrat';
+    font-weight: bold;
+    color: blue;
+    background-image: url('https://xmple.com/wallpaper/checkered-squares-green-white-3240x2160-c2-006400-ffffff-l-100-a-0-f-2.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+#contact_us {
+	margin-right: 100px;
+}
+
+
